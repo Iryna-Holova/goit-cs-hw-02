@@ -3,6 +3,7 @@
 This repository contains the solutions to two tasks:
 
 [Task 1: Website Availability Checker](task_1)
+
 [Task 2: FastAPI Application in Docker Container](task_2)
 
 ## Task 1: Website Availability Checker
@@ -39,10 +40,13 @@ The `task_2` folder contains a FastAPI application configured to run within a Do
 **Docker Setup:** Navigate to the `task_2` folder and run `docker-compose up` to start the Docker container.
 
 <img src="assets/terminal.webp" alt="Terminal">
+
 <img src="assets/docker.webp" alt="Docker container">
 
 **Accessing the Application:** Once the container is running, access the FastAPI application in the browser.
+
 **Verification:** Ensure that the application loads successfully and the database connection is established.
+
 **Example Results:** Clicking the "Check DB" button in the browser displays "Welcome to FastAPI!".
 
 <img src="assets/result.webp" alt="Success running">
