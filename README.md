@@ -39,9 +39,9 @@ The `task_2` folder contains a FastAPI application configured to run within a Do
 
 **Docker Setup:** Navigate to the `task_2` folder and run `docker-compose up` to start the Docker container.
 
-<img src="assets/terminal.webp" alt="Terminal">
+<img src="assets/terminal.png" alt="Terminal">
 
-<img src="assets/docker.webp" alt="Docker container">
+<img src="assets/docker.png" alt="Docker container">
 
 **Accessing the Application:** Once the container is running, access the FastAPI application in the browser.
 
@@ -49,4 +49,4 @@ The `task_2` folder contains a FastAPI application configured to run within a Do
 
 **Example Results:** Clicking the "Check DB" button in the browser displays "Welcome to FastAPI!".
 
-<img src="assets/result.webp" alt="Success running">
+<img src="assets/result.png" alt="Success running">
